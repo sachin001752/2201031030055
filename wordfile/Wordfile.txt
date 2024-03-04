@@ -1,0 +1,16 @@
+Name:-Modi Sachin
+Enrollment No.:- 2201031030055
+Branch:- B.tech IT(Socet)
+Domain Name:- Wildlife animal photos and information
+Wildlife is an online animal photos and information..
+Steps:-
+Step-1:- In the first step I made a github repository 
+In which I make 2 folder Assignment_1 and 2nd one is WT assignment
+Step-2:- In this step I make an account in figma to create web designs.
+Step-3:- In this step I started creating designs of a website and also gave name, Wildlife.
+There are total of 8 Sildes.
+Step-4:- In this step I am making the word file in which I am writing the steps of this task.
+Step-5:- In this step I started doing or making codes(HTML and CSS).
+Step 6:- In this step I uploaded the task I did in the both assignment, In assignment 1 I did the web designs and in assignment 2 I I did the coding part of this task.
+Step-6:- In this step I uploaded the task in github repository.
+Thank You.
